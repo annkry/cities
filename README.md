@@ -6,4 +6,7 @@ The first line of the input contains two natural numbers n and m, separated by a
 ![alt text](input.JPG)
 
 `output specification`  
-In the first and only line of the output, the program will print a single natural number which is the number of cities on the map.
+In the first and only line of the output, the program will print a single natural number which is the number of cities on the map.  
+
+To compile: `g++ -std=gnu++17 -static -DSPRAWDZACZKA main.cpp`  
+To run: `./a.out`  
